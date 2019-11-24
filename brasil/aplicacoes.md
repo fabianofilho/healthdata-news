@@ -14,3 +14,7 @@ Veja o [estudo](https://www.sciencedirect.com/science/article/pii/S0883944119307
 
 > Pesquisadores analisaram 1.089 indivíduos com síndromes coronarianas agudas entre 2006 e 2018 e modelaram 29 variáveis clínicas possíveis para pacientes cardíacos. As variáveis incluíram sinais vitais, dados coronarográficos, diagnósticos e informações laboratoriais.
 
+* [Inteligência Artificial nas Ciências da Saúde: aplicações na psicologia e psiquiatria](https://medium.com/ensina-ai/inteligencia-artificial-saude-psicologia-psiquiatria-23dbdbcb2e17)
+
+> Texto para você que quer entender melhor como é possível conciliar IA e ciências da saúde. Para fins didáticos, vamos limitar os exemplos e discussões nas áreas da psicologia e psiquiatria, pois são as áreas que mais estudo. Porém, alguns conceitos centrais podem ser generalizados para outras áreas da saúde.
+
