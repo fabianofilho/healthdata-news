@@ -1,6 +1,6 @@
 # estudos
 
-Se tiver interesse, não só em aplicar metodologias inovadoras de ciências de dados na saúde, confira o texto do Healthdata para ajudá-lo também a saber aonde [publicar artigos a respeito do tema e contribuir com o avanço científico](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a).
+Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologias inovadoras de ciências de dados na saúde, confira o texto do Healthdata para ajudá-lo também a saber aonde [publicar artigos a respeito do tema e contribuir com o avanço científico](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a).
 
 ## Machine Learning
 
@@ -13,10 +13,22 @@ Se tiver interesse, não só em aplicar metodologias inovadoras de ciências de 
 
 * Uma revisão[ sistemática dos algoritmos existentes para a aplicação da IA na pesquisa e gestão médica da asma encontrou: ](https://erj.ersjournals.com/content/54/suppl_63/PA1482)52 \(40%\) os quais consideraram a aplicação da IA na análise da via da asma, identificação de fenótipo e biomarcador; 77 \(56%\) envolveram a AI no diagnóstico da asma, predição precoce de exacerbações e controle preditivo; 7 \(5%\) estão relacionadas à AI como suporte à gestão e personalização do tratamento.
 
+### Nefrologia
+
+* Para pacientes admitidos na unidade de terapia intensiva[, IA pode ajudar a prever doença renal aguda, níveis de hemoglobina e creatinina antes da admissão.](https://www.nature.com/articles/s41746-019-0192-z) 
+
 ### Psiquiatria
 
 * Bhak et al. treinaram modelos de[ florestas aleatórias \(Random Forests\) para predizer o risco de depressão e suicídio](https://www.nature.com/articles/s41398-019-0595-2) usando dados de metiloma e transcriptoma no sangue e conseguiram um acerto de 92.6%. 
 * Pesquisadores desenvolveram[ modelo preditivo capaz de identificar remissão do quadro de psicose ](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2819%2930121-9/fulltext)usando variáveis ​​clínicas basais do primeiro contato clínico. O desempenho dos modelos de previsão foi robusto para os quatro resultados de 1 ano.
+
+### Neurologia
+
+* Estudo em parceria com a Apple mostra ser[ possível reconhecer padrões no uso de smartphones e sua relação com a saúde cognitiva](https://arxiv.org/pdf/1911.05683.pdf). A pesquisa mostra que a interpretabilidade dos modelos permite novas idéias sobre aspectos em que o uso do telefone está fortemente relacionado à saúde cognitiva. 
+
+### Reabilitação
+
+* Inteligência artificial \(RNN\) [permite que pessoa completamente paralisada do pescoço para baixo escreva apenas com o pensamento](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind), com velocidade de 66 caracteres por minuto com 95% de precisão. 
 
 ### Genética
 
