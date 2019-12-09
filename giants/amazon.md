@@ -2,6 +2,10 @@
 
 ###  Últimas notícias
 
+* [A Amazon tem como alvo seus recursos de aprendizado de máquina na transcrição médica, um dos  pontos mais problemáticos no dia a dia dos médicos. ](https://aws.amazon.com/pt/transcribe/medical/?utm_source=STAT+Newsletters&utm_campaign=23a4dd8576-health_tech_COPY_01&utm_medium=email&utm_term=0_8cab1d7961-23a4dd8576-151781245)
+
+> A empresa diz que o “Amazon Transcribe Medical” converterá automaticamente as consultas dos pacientes de fala em texto para uso em registros médicos eletrônicos.
+
 * [Amazon faz sua segunda aquisição em digital health com a Health Navigator de acordo com a CNBC. ](https://www.mobihealthnews.com/news/north-america/amazon-makes-its-second-digital-health-acquisition-health-navigator)
 
 > Fundada em 2014, oferece conteúdo clínico digital de saúde na forma de APIs que podem ser usadas por prontuários eletrônicos, provedores de telemedicina, chatbots de saúde e call centers médicos.
