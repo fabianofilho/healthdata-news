@@ -6,13 +6,13 @@
 
 ## machine learning
 
+* [dicas](machine-learning/dicas.md)
 * [revisões](machine-learning/revisoes.md)
 * [estudos](machine-learning/estudos.md)
 * [discussões](machine-learning/discussoes.md)
 * [inovações](machine-learning/inovacoes.md)
 * [mitos](machine-learning/mitos.md)
 * [investimentos](machine-learning/investimentos.md)
-* [dicas](machine-learning/dicas.md)
 
 ## brasil
 
