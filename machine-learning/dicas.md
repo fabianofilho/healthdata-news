@@ -16,7 +16,7 @@ description: Dicas de conteúdos a serem consumidos em Healthdata.
 
 ### Newsletters
 
-* [Doctor Penguin](http://doctorpenguin.com/about): o objetivo de ajudar os pesquisadores a acompanhar a vanguarda da pesquisa em IA + Saúde, o Doctor Penguin nasceu.
+* [Doctor Penguin](http://doctorpenguin.com/about) \| Com o objetivo de ajudar os pesquisadores a acompanhar a vanguarda da pesquisa em IA + Saúde, o Doctor Penguin nasceu.
 * [http://subscribe.machinelearnings.co/](http://subscribe.machinelearnings.co/) \| Machine Learnings - Subscribe 
 * [http://aiweekly.co/](http://aiweekly.co/) \| Artificial Intelligence News — Newsletter on Deep Learning & AI
 * [https://www.oreilly.com/ai/newsletter.html](https://www.oreilly.com/ai/newsletter.html) \| Get the O'Reilly Artificial Intelligence Newsletter - O'Reilly Media 
