@@ -13,6 +13,10 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 
 * Uma revisão[ sistemática dos algoritmos existentes para a aplicação da IA na pesquisa e gestão médica da asma encontrou: ](https://erj.ersjournals.com/content/54/suppl_63/PA1482)52 \(40%\) os quais consideraram a aplicação da IA na análise da via da asma, identificação de fenótipo e biomarcador; 77 \(56%\) envolveram a AI no diagnóstico da asma, predição precoce de exacerbações e controle preditivo; 7 \(5%\) estão relacionadas à AI como suporte à gestão e personalização do tratamento.
 
+### Pediatria
+
+* Um novo método tem o[ potencial de alterar a abordagem terapêutica atual para apendicite e demonstra a capacidade dos algoritmos de IA e ML de melhorar significativamente o diagnóstico, ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222030)mesmo com base em parâmetros de diagnóstico de rotina.
+
 ### Nefrologia
 
 * Para pacientes admitidos na unidade de terapia intensiva[, IA pode ajudar a prever doença renal aguda, níveis de hemoglobina e creatinina antes da admissão.](https://www.nature.com/articles/s41746-019-0192-z) 
