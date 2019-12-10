@@ -68,6 +68,12 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 
 > Foi desenvolvido um método de aprendizado de máquina baseado no aprendizado de transferência que permitiu superar os efeitos estocásticos da evolução do câncer e do ruído nos dados e identificamos padrões evolutivos ocultos nas coortes de câncer. Quando aplicado a conjuntos de dados de sequenciamento de várias regiões de câncer de pulmão, mama, rim e colorretal \(768 amostras de 178 pacientes\), nosso método detectou trajetórias evolutivas repetidas em subgrupos de pacientes, que foram reproduzidos em coortes de amostra única \(n = 2.935\) .
 
+### Dermatologia
+
+* Estudo diagnóstico publicado no JAMA traz um total d[e 924538 culturas de imagem de treinamento, incluindo várias lesões benignas, foram geradas com a ajuda de uma rede neural convoluciona](https://jamanetwork.com/journals/jamadermatology/article-abstract/2756346)l baseada em região. 
+
+> A área sob a curva característica de operação do receptor para o conjunto de dados de validação \(2844 imagens de 673 pacientes compreendendo 185 condições malignas, 305 benignas e 183 normais\) foi de 0,910, e o escore F1 e o índice Youden do algoritmo foram comparáveis aos dos dermatologistas e superou os dos não-dermatologistas.
+
 ### Citologia
 
 * [Análise de imagem democratizada por programação visual através da integração de modelos profundos e aprendizado de máquina em pequena escala](https://www.nature.com/articles/s41467-019-12397-x)
