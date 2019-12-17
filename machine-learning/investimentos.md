@@ -1,5 +1,9 @@
 # investimentos
 
+* [Universidades criam centros de inteligência artificial](https://valor.globo.com/carreira/noticia/2019/12/16/universidades-criam-centros-de-inteligencia-artificial.ghtml). Academia quer formar mão de obra e difundir informações.
+
+> A iniciativa reúne mais de 60 pesquisadores da USP e outras instituições, como a Escola Superior de Agricultura Luiz de Queiroz \(Esalq/USP\), de Piracicaba, Universidade Estadual Paulista \(Unesp\), Universidade Estadual de Campinas \(Unicamp\), Pontifícia Universidade Católica de São Paulo \(PUC-SP\), Centro Universitário FEI e Instituto Tecnológico de Aeronáutica.
+
 * O MIT anunciou um plano de US $ 1 bilhão para criar uma [nova faculdade que combina IA, aprendizado de máquina e ciência de dados](https://www.technologyreview.com/f/612293/mit-has-just-announced-a-1-billion-plan-to-create-a-new-college-for-ai/) com outras disciplinas acadêmicas.  
 
 > É o maior investimento financeiro em IA de qualquer instituição acadêmica dos EUA até o momento.
