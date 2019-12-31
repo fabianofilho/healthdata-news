@@ -4,5 +4,5 @@
 
 Envie sua sugestão de news, artigos, conteúdos para:
 
-**healthdatanews@gmail.com**
+> **healthdatanews@gmail.com**
 

@@ -6,29 +6,29 @@
 
 ## dicas
 
-* [lists](machine-learning/dicas.md)
-* [revisões](machine-learning/revisoes.md)
-* [discussões](machine-learning/discussoes.md)
-* [inovações](machine-learning/inovacoes.md)
-* [mitos](machine-learning/mitos.md)
-* [investimentos](machine-learning/investimentos.md)
+* [listas](dicas/listas.md)
+* [revisões](dicas/revisoes.md)
+* [discussões](dicas/discussoes.md)
+* [inovações](dicas/inovacoes.md)
+* [mitos](dicas/mitos.md)
+* [investimentos](dicas/investimentos.md)
 
 ## ESTUDOS
 
-* [leia aqui!](estudos/estudos.md)
-* [Machine Learning](estudos/machine-learning/README.md)
-  * [cardiologia](estudos/machine-learning/cardiologia.md)
-  * [pneumologia](estudos/machine-learning/pneumologia.md)
-  * [pediatria](estudos/machine-learning/pediatria.md)
-  * [nefro](estudos/machine-learning/nefro.md)
-  * [psiquiatria](estudos/machine-learning/psiquiatria.md)
-  * [cirurgia](estudos/machine-learning/cirurgia.md)
-  * [neurologia](estudos/machine-learning/neurologia.md)
-  * [genetica](estudos/machine-learning/genetica.md)
-  * [reabilitacao](estudos/machine-learning/reabilitacao.md)
-* [Deep Learning](estudos/deep-learning/README.md)
-  * [oncologia](estudos/deep-learning/untitled.md)
-  * [radiologia](estudos/deep-learning/radiologia.md)
+* [leia aqui!](estudos/leia-aqui.md)
+* [Machine Learning](estudos/ml/README.md)
+  * [cardiologia](estudos/ml/cardiologia.md)
+  * [pneumologia](estudos/ml/pneumologia.md)
+  * [pediatria](estudos/ml/pediatria.md)
+  * [nefro](estudos/ml/nefro.md)
+  * [psiquiatria](estudos/ml/psiquiatria.md)
+  * [cirurgia](estudos/ml/cirurgia.md)
+  * [neurologia](estudos/ml/neurologia.md)
+  * [genetica](estudos/ml/genetica.md)
+  * [reabilitacao](estudos/ml/reabilitacao.md)
+* [Deep Learning](estudos/dl/README.md)
+  * [oncologia](estudos/dl/untitled.md)
+  * [radiologia](estudos/dl/radiologia.md)
 
 ## brasil
 
