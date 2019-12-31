@@ -21,16 +21,14 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 * 
 ### Neurologia
 
-* Estudo em parceria com a Apple mostra ser[ possível reconhecer padrões no uso de smartphones e sua relação com a saúde cognitiva](https://arxiv.org/pdf/1911.05683.pdf). A pesquisa mostra que a interpretabilidade dos modelos permite novas idéias sobre aspectos em que o uso do telefone está fortemente relacionado à saúde cognitiva. 
-
+* 
 ### Reabilitação
 
 * Inteligência artificial \(RNN\) [permite que pessoa completamente paralisada do pescoço para baixo escreva apenas com o pensamento](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind), com velocidade de 66 caracteres por minuto com 95% de precisão. 
 
 ### Genética
 
-* Kelly at al. [treinaram o modelo de aprendizado de máquina FIND FH usando dados de encontro de saúde não identificados, ](https://www.sciencedirect.com/science/article/pii/S2589750019301505)incluindo códigos de procedimentos e diagnóstico, prescrições e achados laboratoriais, de 939 indivíduos diagnosticados clinicamente com hipercolesterolemia familiar, com uma precisão medida \(valor preditivo positivo\) de 0,85, recuperação \(sensibilidade\) de 0,45.
-
+* 
 ## Últimas de Deep Learning
 
 ### Radiologia
