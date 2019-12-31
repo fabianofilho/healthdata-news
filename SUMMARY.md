@@ -4,15 +4,26 @@
 * [tópicos](topicos.md)
 * [contribua](contribua.md)
 
-## machine learning
+## dicas
 
-* [dicas](machine-learning/dicas.md)
-* [revisões](machine-learning/revisoes.md)
-* [estudos](machine-learning/estudos.md)
-* [discussões](machine-learning/discussoes.md)
-* [inovações](machine-learning/inovacoes.md)
-* [mitos](machine-learning/mitos.md)
-* [investimentos](machine-learning/investimentos.md)
+* [lists](dicas/lists.md)
+* [revisões](dicas/revisoes.md)
+* [discussões](dicas/discussoes.md)
+* [inovações](dicas/inovacoes.md)
+* [mitos](dicas/mitos.md)
+* [investimentos](dicas/investimentos.md)
+
+## ESTUDOS
+
+* [leia aqui!](estudos/estudos.md)
+* [Machine Learning](estudos/machine-learning/README.md)
+  * [cardiologia](estudos/machine-learning/cardiologia.md)
+  * [pneumologia](estudos/machine-learning/pneumologia.md)
+  * [pediatria](estudos/machine-learning/pediatria.md)
+  * [nefro](estudos/machine-learning/nefro.md)
+  * [psiquiatria](estudos/machine-learning/psiquiatria.md)
+* [Deep Learning](estudos/deep-learning/README.md)
+  * [Untitled](estudos/deep-learning/untitled.md)
 
 ## brasil
 

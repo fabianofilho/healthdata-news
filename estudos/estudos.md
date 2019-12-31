@@ -1,32 +1,24 @@
-# estudos
+# leia aqui!
 
 Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologias inovadoras de ciências de dados na saúde, confira o texto do Healthdata para ajudá-lo também a saber aonde [publicar artigos a respeito do tema e contribuir com o avanço científico](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a).
 
-## Machine Learning
+## Últimas de Machine Learning
 
 ### Cardiologia
 
-* IA sendo usada a partir de modelos de[ Boosted Trees a fim de melhorar a predição de risco de insuficiência cardíaca ](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejhf.1628)numa coorte de 5822 pacientes hospitalizados e em acompanhamento ambulatorial.
-* Bhuva et al. compararam a[ precisão de Machine Learning e humanos usando um conjunto de dados multicêntricos, ](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.009214)com várias doenças com scan—rescan de uma ressonância magnética cardiovascular. IA teve resultado 186x mais rápido \(7s x 13minutos\).
-* Modelo de XGBoost foi desenvolvido em coorte de 18.258 pacientes para[ previsão de risco com alta precisão para início de hipertensão, e teve como melhor preditor pressão arterial sistólica](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jch.13759) durante a medição do índice vascular cardio-tornozelo no ano.
-
+* 
 ### Pneumologia
 
-* Uma revisão[ sistemática dos algoritmos existentes para a aplicação da IA na pesquisa e gestão médica da asma encontrou: ](https://erj.ersjournals.com/content/54/suppl_63/PA1482)52 \(40%\) os quais consideraram a aplicação da IA na análise da via da asma, identificação de fenótipo e biomarcador; 77 \(56%\) envolveram a AI no diagnóstico da asma, predição precoce de exacerbações e controle preditivo; 7 \(5%\) estão relacionadas à AI como suporte à gestão e personalização do tratamento.
-
+* 
 ### Pediatria
 
-* Um novo método tem o[ potencial de alterar a abordagem terapêutica atual para apendicite e demonstra a capacidade dos algoritmos de IA e ML de melhorar significativamente o diagnóstico, ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222030)mesmo com base em parâmetros de diagnóstico de rotina.
-
+* 
 ### Nefrologia
 
-* Para pacientes admitidos na unidade de terapia intensiva[, IA pode ajudar a prever doença renal aguda, níveis de hemoglobina e creatinina antes da admissão.](https://www.nature.com/articles/s41746-019-0192-z) 
-
+* 
 ### Psiquiatria
 
-* Bhak et al. treinaram modelos de[ florestas aleatórias \(Random Forests\) para predizer o risco de depressão e suicídio](https://www.nature.com/articles/s41398-019-0595-2) usando dados de metiloma e transcriptoma no sangue e conseguiram um acerto de 92.6%. 
-* Pesquisadores desenvolveram[ modelo preditivo capaz de identificar remissão do quadro de psicose ](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2819%2930121-9/fulltext)usando variáveis ​​clínicas basais do primeiro contato clínico. O desempenho dos modelos de previsão foi robusto para os quatro resultados de 1 ano.
-
+* 
 ### Neurologia
 
 * Estudo em parceria com a Apple mostra ser[ possível reconhecer padrões no uso de smartphones e sua relação com a saúde cognitiva](https://arxiv.org/pdf/1911.05683.pdf). A pesquisa mostra que a interpretabilidade dos modelos permite novas idéias sobre aspectos em que o uso do telefone está fortemente relacionado à saúde cognitiva. 
@@ -39,7 +31,7 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 
 * Kelly at al. [treinaram o modelo de aprendizado de máquina FIND FH usando dados de encontro de saúde não identificados, ](https://www.sciencedirect.com/science/article/pii/S2589750019301505)incluindo códigos de procedimentos e diagnóstico, prescrições e achados laboratoriais, de 939 indivíduos diagnosticados clinicamente com hipercolesterolemia familiar, com uma precisão medida \(valor preditivo positivo\) de 0,85, recuperação \(sensibilidade\) de 0,45.
 
-## Deep Learning
+## Últimas de Deep Learning
 
 ### Radiologia
 
