@@ -22,6 +22,7 @@
   * [pediatria](estudos/machine-learning/pediatria.md)
   * [nefro](estudos/machine-learning/nefro.md)
   * [psiquiatria](estudos/machine-learning/psiquiatria.md)
+  * [cirurgia](estudos/machine-learning/cirurgia.md)
 * [Deep Learning](estudos/deep-learning/README.md)
   * [oncologia](estudos/deep-learning/untitled.md)
   * [radiologia](estudos/deep-learning/radiologia.md)
