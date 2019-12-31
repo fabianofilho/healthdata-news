@@ -5,4 +5,5 @@
 ## Mais estudos
 
 * Uma [revisão das principais e emergentes aplicações baseadas em aprendizado profundo em radiologia do tórax](https://link.springer.com/article/10.1007%2Fs40134-019-0333-9) se tornou necessária pelo fato da aplicação de aprendizado profundo para radiologia mostrou que seu desempenho na triagem da radiografia de tórax em adultos atingiu um nível clinicamente aceitável, enquanto a detecção de nódulos pulmonares na tomografia computadorizada alcançou variabilidade interobservadores comparável a observadores humanos experientes, e a geração automática de relatórios de texto para radiografia de tórax é viável. 
+* Artigo da Nature Machine Intelligence [traz um modelo da CNN que pode ser efetivamente utilizado para a identificação de diversas anormalidades em radiografias altamente variáveis ​​de várias partes do corpo,](https://www.nature.com/articles/s42256-019-0126-0) um resultado que tem potencial para melhorar a triagem do paciente e auxiliar no diagnóstico em ambientes com recursos limitados.
 
