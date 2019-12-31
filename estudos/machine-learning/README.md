@@ -1,4 +1,14 @@
 # Machine Learning
 
-óis
+Tópicos
+
+\[  \] Cardiologia 
+
+\[  \] Pneumologia
+
+\[  \] Pediatria 
+
+\[  \] Nefrologia
+
+\[  \] Psiquiatria \(Willer França\)
 
