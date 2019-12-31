@@ -25,6 +25,7 @@
   * [cirurgia](estudos/machine-learning/cirurgia.md)
   * [neurologia](estudos/machine-learning/neurologia.md)
   * [genetica](estudos/machine-learning/genetica.md)
+  * [reabilitacao](estudos/machine-learning/reabilitacao.md)
 * [Deep Learning](estudos/deep-learning/README.md)
   * [oncologia](estudos/deep-learning/untitled.md)
   * [radiologia](estudos/deep-learning/radiologia.md)
