@@ -15,7 +15,7 @@
 
 ## ESTUDOS
 
-* [leia aqui!](machine-learning/estudos.md)
+* [leia aqui!](estudos/estudos.md)
 * [Machine Learning](estudos/machine-learning/README.md)
   * [cardiologia](estudos/machine-learning/cardiologia.md)
   * [pneumologia](estudos/machine-learning/pneumologia.md)
@@ -23,7 +23,8 @@
   * [nefro](estudos/machine-learning/nefro.md)
   * [psiquiatria](estudos/machine-learning/psiquiatria.md)
 * [Deep Learning](estudos/deep-learning/README.md)
-  * [Untitled](estudos/deep-learning/untitled.md)
+  * [oncologia](estudos/deep-learning/untitled.md)
+  * [radiologia](estudos/deep-learning/radiologia.md)
 
 ## brasil
 
