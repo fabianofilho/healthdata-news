@@ -6,16 +6,16 @@
 
 ## dicas
 
-* [lists](dicas/lists.md)
-* [revisões](dicas/revisoes.md)
-* [discussões](dicas/discussoes.md)
-* [inovações](dicas/inovacoes.md)
-* [mitos](dicas/mitos.md)
-* [investimentos](dicas/investimentos.md)
+* [lists](machine-learning/dicas.md)
+* [revisões](machine-learning/revisoes.md)
+* [discussões](machine-learning/discussoes.md)
+* [inovações](machine-learning/inovacoes.md)
+* [mitos](machine-learning/mitos.md)
+* [investimentos](machine-learning/investimentos.md)
 
 ## ESTUDOS
 
-* [leia aqui!](estudos/estudos.md)
+* [leia aqui!](machine-learning/estudos.md)
 * [Machine Learning](estudos/machine-learning/README.md)
   * [cardiologia](estudos/machine-learning/cardiologia.md)
   * [pneumologia](estudos/machine-learning/pneumologia.md)

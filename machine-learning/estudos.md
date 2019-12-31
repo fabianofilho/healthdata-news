@@ -1,24 +1,32 @@
-# leia aqui!
+# estudos
 
 Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologias inovadoras de ciências de dados na saúde, confira o texto do Healthdata para ajudá-lo também a saber aonde [publicar artigos a respeito do tema e contribuir com o avanço científico](https://medium.com/@healthdata/revistas-cient%C3%ADficas-em-healthdata-e-machine-learning-913a36833e2a).
 
-## Últimas de Machine Learning
+## Machine Learning
 
 ### Cardiologia
 
-* 
+* IA sendo usada a partir de modelos de[ Boosted Trees a fim de melhorar a predição de risco de insuficiência cardíaca ](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejhf.1628)numa coorte de 5822 pacientes hospitalizados e em acompanhamento ambulatorial.
+* Bhuva et al. compararam a[ precisão de Machine Learning e humanos usando um conjunto de dados multicêntricos, ](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.009214)com várias doenças com scan—rescan de uma ressonância magnética cardiovascular. IA teve resultado 186x mais rápido \(7s x 13minutos\).
+* Modelo de XGBoost foi desenvolvido em coorte de 18.258 pacientes para[ previsão de risco com alta precisão para início de hipertensão, e teve como melhor preditor pressão arterial sistólica](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jch.13759) durante a medição do índice vascular cardio-tornozelo no ano.
+
 ### Pneumologia
 
-* 
+* Uma revisão[ sistemática dos algoritmos existentes para a aplicação da IA na pesquisa e gestão médica da asma encontrou: ](https://erj.ersjournals.com/content/54/suppl_63/PA1482)52 \(40%\) os quais consideraram a aplicação da IA na análise da via da asma, identificação de fenótipo e biomarcador; 77 \(56%\) envolveram a AI no diagnóstico da asma, predição precoce de exacerbações e controle preditivo; 7 \(5%\) estão relacionadas à AI como suporte à gestão e personalização do tratamento.
+
 ### Pediatria
 
-* 
+* Um novo método tem o[ potencial de alterar a abordagem terapêutica atual para apendicite e demonstra a capacidade dos algoritmos de IA e ML de melhorar significativamente o diagnóstico, ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222030)mesmo com base em parâmetros de diagnóstico de rotina.
+
 ### Nefrologia
 
-* 
+* Para pacientes admitidos na unidade de terapia intensiva[, IA pode ajudar a prever doença renal aguda, níveis de hemoglobina e creatinina antes da admissão.](https://www.nature.com/articles/s41746-019-0192-z) 
+
 ### Psiquiatria
 
-* 
+* Bhak et al. treinaram modelos de[ florestas aleatórias \(Random Forests\) para predizer o risco de depressão e suicídio](https://www.nature.com/articles/s41398-019-0595-2) usando dados de metiloma e transcriptoma no sangue e conseguiram um acerto de 92.6%. 
+* Pesquisadores desenvolveram[ modelo preditivo capaz de identificar remissão do quadro de psicose ](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2819%2930121-9/fulltext)usando variáveis ​​clínicas basais do primeiro contato clínico. O desempenho dos modelos de previsão foi robusto para os quatro resultados de 1 ano.
+
 ### Neurologia
 
 * Estudo em parceria com a Apple mostra ser[ possível reconhecer padrões no uso de smartphones e sua relação com a saúde cognitiva](https://arxiv.org/pdf/1911.05683.pdf). A pesquisa mostra que a interpretabilidade dos modelos permite novas idéias sobre aspectos em que o uso do telefone está fortemente relacionado à saúde cognitiva. 
@@ -31,7 +39,7 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 
 * Kelly at al. [treinaram o modelo de aprendizado de máquina FIND FH usando dados de encontro de saúde não identificados, ](https://www.sciencedirect.com/science/article/pii/S2589750019301505)incluindo códigos de procedimentos e diagnóstico, prescrições e achados laboratoriais, de 939 indivíduos diagnosticados clinicamente com hipercolesterolemia familiar, com uma precisão medida \(valor preditivo positivo\) de 0,85, recuperação \(sensibilidade\) de 0,45.
 
-## Últimas de Deep Learning
+## Deep Learning
 
 ### Radiologia
 
@@ -59,12 +67,6 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 
 > O estudo usa aprendizado profundo para a previsão contínua de risco de deterioração futura em pacientes, com base em trabalhos recentes que modelam eventos adversos dos registros eletrônicos de saúde e usando lesão renal aguda - uma condição comum e potencialmente fatal.. A abordagem pode ajudar a identificar pacientes que estão em risco e possibilitar um tratamento mais precoce.
 
-* Os estudos com esse objetivo publicados em 2019 com intuito de[ melhorar o diagnóstico e prognóstico de doenças renais agudas e crônicas com inteligência artificial ](https://www.nature.com/articles/s41581-019-0243-3?proof=true1)contaram com uma variedade de fontes de dados disponíveis, incluindo registros eletrônicos de saúde, sinais fisiológicos intraoperatórios, imagens de ultrassonografia renal e amostras de biópsia digitalizadas.
-  * Além do supracitado que detecta doença renal aguda.
-  * A integração de sinais fisiológicos intra-operatórios em um modelo de risco de LRA que integra dinamicamente dados pré-operatórios e intraoperatórios melhora a previsão de LRA pós-operatório.
-  * Um modelo de aprendizado profundo convolucional permite a classificação não invasiva do estágio da doença renal crônica e a taxa estimada de filtração glomerular usando imagens de ultra-som renal.
-  * Uma rede neural convolucional treinada para segmentação multiclasse permite a análise automatizada de biópsia de transplante e amostras de nefrectomia.
-
 ### Oncologia
 
 * [Evolução do cancer é desvendada por Transfer Learning](https://www.nature.com/articles/s41592-018-0108-x) elucidando sua origem no DNA e trazendo antecipação no seu diagnóstico e progressão da doença.
@@ -76,12 +78,6 @@ Se tiver interesse, não só em ler conteúdos e artigos, mas aplicar metodologi
 * Estudo diagnóstico publicado no JAMA traz um total d[e 924538 culturas de imagem de treinamento, incluindo várias lesões benignas, foram geradas com a ajuda de uma rede neural convoluciona](https://jamanetwork.com/journals/jamadermatology/article-abstract/2756346)l baseada em região. 
 
 > A área sob a curva característica de operação do receptor para o conjunto de dados de validação \(2844 imagens de 673 pacientes compreendendo 185 condições malignas, 305 benignas e 183 normais\) foi de 0,910, e o escore F1 e o índice Youden do algoritmo foram comparáveis aos dos dermatologistas e superou os dos não-dermatologistas.
-
-### Hematologia
-
-* [Anemia já pode ser detectada através de algoritmos de aprendizado de máquina treinados usando imagens do fundo da retina](https://www.nature.com/articles/s41551-019-0487-z).
-
-> São levados em conta no modelo metadados dos participantes do estudo \(incluindo raça ou etnia, idade, sexo e pressão arterial\) ou a combinação dos dois tipos de dados \(imagens e metadados dos participantes do estudo\).
 
 ### Citologia
 
