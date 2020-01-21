@@ -27,8 +27,14 @@
   * [genetica](estudos/ml/genetica.md)
   * [reabilitacao](estudos/ml/reabilitacao.md)
 * [Deep Learning](estudos/dl/README.md)
-  * [oncologia](estudos/dl/untitled.md)
+  * [cardiologia](estudos/dl/cardiologia.md)
+  * [nefrologia](estudos/dl/nefrologia.md)
+  * [gastroenterologia](estudos/dl/gastroenterologia.md)
   * [radiologia](estudos/dl/radiologia.md)
+  * [dermatologia](estudos/dl/dermatologia.md)
+  * [hematologia](estudos/dl/hematologia.md)
+  * [oncologia](estudos/dl/untitled.md)
+  * [citologia](estudos/dl/citologia.md)
 
 ## brasil
 
