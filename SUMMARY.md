@@ -26,6 +26,7 @@
   * [neurologia](estudos/ml/neurologia.md)
   * [genetica](estudos/ml/genetica.md)
   * [reabilitacao](estudos/ml/reabilitacao.md)
+  * [hematologia](estudos/ml/hematologia.md)
 * [Deep Learning](estudos/dl/README.md)
   * [cardiologia](estudos/dl/cardiologia.md)
   * [nefrologia](estudos/dl/nefrologia.md)
