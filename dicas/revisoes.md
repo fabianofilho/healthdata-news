@@ -2,6 +2,7 @@
 
 ## Perspectivas
 
+* Nesse ponto de vista, Gerke et al.[ discutir os aspectos éticos e legais da inteligência ambiental em hospitais](https://jamanetwork.com/journals/jama/fullarticle/2759956)
 * Nessa perspectiva, Joyce et al. discut[e como as medidas resumidas do desempenho obscurecem a incerteza nas previsões do algoritmo que podem ser relevantes](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2758828) quando implantadas para a tomada de decisão clínica.
 * Artigo da Science traz a visão da[ Inteligência Artificial para a Saúde Global.](https://science.sciencemag.org/content/366/6468/955)
 
