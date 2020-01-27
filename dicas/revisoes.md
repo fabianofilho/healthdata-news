@@ -2,6 +2,7 @@
 
 ## Perspectivas
 
+* Morley et al. discutir preocupações [éticas epistêmicas, normativas e abrangentes relacionadas ao uso algorítmico nos cuidados de saúde.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2932975-7/fulltext)
 * Nesse ponto de vista, Gerke et al.[ discutir os aspectos éticos e legais da inteligência do ambiente em hospitais](https://jamanetwork.com/journals/jama/fullarticle/2759956)
 * Nessa perspectiva, Joyce et al. discut[e como as medidas resumidas do desempenho obscurecem a incerteza nas previsões do algoritmo que podem ser relevantes](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2758828) quando implantadas para a tomada de decisão clínica.
 * Artigo da Science traz a visão da[ Inteligência Artificial para a Saúde Global.](https://science.sciencemag.org/content/366/6468/955)
