@@ -13,6 +13,7 @@ description: Dicas de conteúdos a serem consumidos em Healthdata.
 ### Podcasts
 
 * Junte-se ao editor-chefe do Medscape, Eric Topol, MD, e ao mestre e contador de histórias e clínico Abraham Verghese, MD, em [Medicine and the Machine](http://www.medscape.com/features/public/machine) enquanto discutem o poder e as armadilhas da inteligência artificial e como isso mudará a medicina moderna.
+* [Podcast do DataHackers ](https://medium.com/data-hackers/health-data-e-o-coronav%C3%ADrus-data-hackers-podcast-22-2b059d460cb1)com a presença do [Mribeirodantas](https://mribeirodantas.xyz), falando sobre Healthdata na atualidade.
 
 ### Newsletters Lists
 
