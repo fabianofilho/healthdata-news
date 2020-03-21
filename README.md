@@ -4,7 +4,7 @@
 
 Site de tópicos de **estudos e notícias** sobre saúde digital e inteligência artificial.
 
-### Os gigantes da tecnologia, na saúde
+### Artigos e notícias de tecnologia na saúde
 
 O intuito desta iniciativa surge para acompanhar e trazer de forma organizada e atualizada o que tem sido pauta principalmente dentre os[ gigantes da tecnologia: saúde digital.](https://medium.com/leoilab/tech-giants-all-have-their-eyes-on-healthcare-aac958797aff)
 

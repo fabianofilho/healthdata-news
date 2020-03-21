@@ -1,8 +1,14 @@
 # revisões
 
+## Perspectivas
+
+* Morley et al. discutir preocupações [éticas epistêmicas, normativas e abrangentes relacionadas ao uso algorítmico nos cuidados de saúde.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2932975-7/fulltext)
+* Nesse ponto de vista, Gerke et al.[ discutir os aspectos éticos e legais da inteligência do ambiente em hospitais](https://jamanetwork.com/journals/jama/fullarticle/2759956)
+* Nessa perspectiva, Joyce et al. discut[e como as medidas resumidas do desempenho obscurecem a incerteza nas previsões do algoritmo que podem ser relevantes](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2758828) quando implantadas para a tomada de decisão clínica.
+* Artigo da Science traz a visão da[ Inteligência Artificial para a Saúde Global.](https://science.sciencemag.org/content/366/6468/955)
+
 ## Revisões de IA na saúde
 
-* Artigo da Science traz a visão da[ Inteligência Artificial para a Saúde Global.](https://science.sciencemag.org/content/366/6468/955)
 * Liu et al. publicou uma[ visão geral do aprendizado de máquina e como avaliar a literatura publicada, ](https://jamanetwork.com/journals/jama/fullarticle/2754798)no artigo ele descreve conceitos no uso de ferramentas baseadas em aprendizado de máquina para estabelecer diagnósticos médicos.
 * @NatureNews [revisou as ferramentas de visão de computacional com \#AI: ](https://www.nature.com/articles/d41586-019-02942-5)"Deep Learning já impulsiona uma revolução no rastreamento de movimento”
 * Juntos, o [The Lancet e o Financial Times](https://www.ft.com/reports/future-ai-digital-healthcare), exploram como a IA e outros avanços digitais podem melhorar a assistência médica às crianças e jovens mais pobres do mundo. 
